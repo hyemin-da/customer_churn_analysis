@@ -1,6 +1,6 @@
 # Customer Churn Analysis
 
-이 프로젝트는 고객 이탈을 분석합니다.
+이 프로젝트는 고객 이탈을 분석합니다.\n
 Customer churn analysis - exploration.
 고객 이탈 분석 프로젝트
 
