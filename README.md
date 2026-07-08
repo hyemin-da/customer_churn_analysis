@@ -8,3 +8,4 @@ Customer churn analysis - exploration.
 분석 기간: 2025 - 2026
 사용 기술: Python, SQL
 분석 목표: 이탈 고객의 특성과 이탈 요인 파악
+링크: https://github.com/hyemin-da/customer_churn_analysis.git
